@@ -480,10 +480,10 @@ def yurikorobot_about_callback(update, context):
             f"\n*SETUP ASSISTANT*"
             f"\n\n✗ `1.) first, add me to your group.`"
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
-            f"\n\n✗ `3.) add` @Miss_security_bot `to your group:`"
+            f"\n\n✗ `3.) add` @Diputechteam `to your group:`"
             f"\n\n✗ `4.) you have our another bot.`"
             f"\n\n✗ *Lets Enjoy The Both bots And Join Support Group @elena_support_group*"
-            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ GᴀᴜʀBᴏᴏ!*",
+            f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ SᴀᴜʀMᴏᴏ!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
